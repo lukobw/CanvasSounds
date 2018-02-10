@@ -2,4 +2,4 @@
 
 http://lucas-obwarzanek.pl/CanvasSounds/
 
-Hit a key to play the sound.
+Hit a key [a-z] to play the sound.
